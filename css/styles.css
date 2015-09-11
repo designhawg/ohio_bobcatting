@@ -1,0 +1,114 @@
+.navbar {
+	background-color: #fafafa;
+    height: 80px;
+    margin-top: -20px;
+    width: 100%;
+    z-index: 100;
+}
+
+.navbar .left span {
+	background-image: url(../images/postlogo.png);
+    background-position: 0 2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    height: 80px;
+    width: 165px;
+    display: block;
+}
+
+ul.right {
+	list-style-type: none;
+}
+
+.navbar .right {
+	float: right;
+}
+
+.right li {
+	float: left;
+}
+
+.right li:hover {
+	background-color: #00694e;
+}
+
+.right li a {
+	text-transform: uppercase;
+	display: block;
+	padding: 25px 20px 23px 20px;
+	font-family: Helvetica, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 200;
+}
+
+.right li a:hover {
+	color: #FFFFFF;
+}
+
+.top-adjust {
+	padding-top: 60px;
+}
+
+.full {
+	width: 100%;
+}
+
+.fixed {
+	position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
